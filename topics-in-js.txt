@@ -1,0 +1,35 @@
+1) Scopes
+   Basics of how scopes works in javascript
+   How this keywords works in js?
+   Lexical Scoping (global vs local,  var keyword)
+   
+2) Data types
+   All types of data 
+   Strict checking of data type == vs ===
+   Using typeof 
+
+3) Call and Apply
+   How to use call and Apply
+   Inheritence using call
+   Examples on Inheritence
+
+4) Inheritence 
+   How to achieve inheritence using js?
+
+
+5) Prototype
+   What is a prototype ?
+   How it is related to object and memory?
+
+6) Abstraction (Object based programming paradigm) 
+   Achieving object oriented design using Abstraction
+   Implementing class in js ? 
+
+7) Event Loop
+   How to event loop works?
+   V8 engine architecture
+   blocking and non blocking , how it effects the single threaded architecture?
+
+8) ES6 Basics
+   let keyoword and how es6 achieves it in native js
+   
